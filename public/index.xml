@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine 1 Write-up</title>
+      <link>/posts/posts/hero/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/hero/</guid>
+      <description>&lt;p&gt;askdhahsdohadn&#xA;ashdasndnason&#xA;sakdbkasbdas&lt;/p&gt;&#xA;&lt;p&gt;dalkdnkalda&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Machine 2 Write-up</title>
+      <link>/posts/posts/villan/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/villan/</guid>
+      <description>&lt;p&gt;kjsbadkbkdkas&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
