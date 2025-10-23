@@ -24,7 +24,7 @@ pagination.pagerSize = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = true
+  centerTheme = false
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -62,13 +62,6 @@ pagination.pagerSize = 5
   # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
-
-[params.assets]
-favicon = "/favicon.ico"
-favicon16x16 = "/favicon-16x16.png"
-favicon32x32 = "/favicon-32x32.png"
-apple_touch_icon = "/apple_touch_icon.png"
-
 
 [params.twitter]
   # set Twitter handles for Twitter cards
