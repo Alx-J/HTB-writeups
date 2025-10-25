@@ -8,7 +8,7 @@
     <loc>/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/posts/lazycat-/</loc>
+    <loc>/posts/lazycat-/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/linux/</loc>
@@ -23,8 +23,14 @@
     <loc>/tags/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/posts/posts/</loc>
+    <loc>/posts/posts/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/about/about/</loc>
+  </url><url>
+    <loc>/posts/about/</loc>
+  </url><url>
+    <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url>

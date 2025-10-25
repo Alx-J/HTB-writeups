@@ -11,7 +11,7 @@ We've all been there. It's 1 AM, you're deep into a Hack The Box machine, and yo
 
 Then, the scan finishes. You squint at the output, manually copy-pasting the 3 or 4 open ports into a *new* command: `nmap -sC -sV -A -p 22,80,445 <IP>`... and you wait again.
 
-This manual step of grabbing ports, re-typing commands, and wasting precious minutes was driving me crazy. It's a small thing, but it breaks your flow. I was born out of pure frustration during those late-night sessions. I wanted to stop wasting time on repetitive scanning and focus on what actually matters—getting root.
+This manual step of grabbing ports, re-typing commands, and wasting precious minutes was driving me crazy. It's a small thing, but it breaks your flow. It was born out of pure frustration during those late-night sessions. I wanted to stop wasting time on repetitive scanning and focus on what actually matters—getting root.
 
 So, I built **LazyCat**.
 
