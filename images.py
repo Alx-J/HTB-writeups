@@ -4,7 +4,7 @@ import shutil
 
 # Paths
 posts_dir = "/Users/alexj/Documents/blog/content/about/"
-attachments_dir = "/Users/alexj/Library/Mobile Documents/iCloud~md~obsidian/Documents/Dante/Blog/attachments/"
+attachments_dir = "/Users/alexj/Library/Mobile Documents/iCloud~md~obsidian/Documents/Dante/Blog/Attachments/"
 static_images_dir = "/Users/alexj/Documents/blog/static/images/"
 
 # Step 1: Process each markdown file in the posts directory

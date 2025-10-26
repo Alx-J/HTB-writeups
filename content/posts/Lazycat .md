@@ -52,10 +52,11 @@ Installation is a 3-line copy-paste job.
 
 ```bash
 # Download the script
-curl -L [https://raw.githubusercontent.com/Alx-J/lazyc4t/main/lazycat.sh](https://raw.githubusercontent.com/Alx-J/lazyc4t/main/lazycat.sh) -o lazycat
+curl -L https://raw.githubusercontent.com/Alx-J/lazyc4t/main/lazycat.sh -o lazycat
 
 # Make it executable
 chmod +x lazycat
 
 # Move it to your path so you can call it from anywhere
 sudo mv lazycat /usr/local/bin/
+```
